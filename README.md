@@ -1,5 +1,7 @@
 # Motor Service Management 
 
+An application for a Motor Service/Repair System with multiple access roles (employee, client, mechanic). Can create employees, register clients, create jobs, transfer job sheets to mechanics and maintain status of the job. The main focus was to implement **Object Oriented Design Principles**.
+
 ### CSYE6200 (Object Oriented Design) Final Project 
 
 ## Scope of Operations
